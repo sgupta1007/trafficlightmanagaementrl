@@ -1,0 +1,4 @@
+execute prereq.sh to install sumo and sumo rl library
+execute prereq2.sh to install requirements.txt
+
+Sumo pip and git are also required
